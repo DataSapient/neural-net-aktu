@@ -71,7 +71,7 @@ puppeteer:
 ## Separate notes:
 >### Unit 1 - **Neurocomputing & Neuroscience**
 | Topic Name | Links |
-| --- | --- | --- |
+| --- | :---: | ---: |
 | Human brain | [Link 1][1] |
 | Neuron models | [Link 1][2] |
 | Knowledge representation | [Link 1][5] |
