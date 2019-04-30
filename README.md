@@ -1,3 +1,4 @@
+<!---
 ---
 puppeteer:
     pdf:
@@ -12,6 +13,7 @@ puppeteer:
         quality: 100
         fullPage: true
 ---
+--->
 # Neural Network Syllabus - AKTU 2019
 
 ## Unit 1 - **Neurocomputing & Neuroscience**
