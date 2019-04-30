@@ -71,7 +71,7 @@ puppeteer:
 ## Separate notes:
 >### Unit 1 - **Neurocomputing & Neuroscience**
 | Topic Name | Links |
-| --- | :---: | ---: |
+| --- | --- |
 | Human brain | [Link 1][1] |
 | Neuron models | [Link 1][2] |
 | Knowledge representation | [Link 1][5] |
@@ -81,7 +81,7 @@ puppeteer:
 
 >### Unit 2 - **Data Processing Scaling**
 | Topic Name | Links |
-| --- | --- | --- |
+| --- | --- |
 | Principle Component Analysis | [Link 1][10] |
 | Regression | [Link 1][11] |
 | Eigven values and eigen vectors | [Link 1][12] |
@@ -93,7 +93,7 @@ puppeteer:
 
 >### Unit 3 - **Multilayered Network Architecture**
 | Topic Name | Links |
-| --- | --- | --- |
+| --- | --- |
 | Backpropagation algorithm | [Link 1][19] |
 | Approximation properties <br/>of RBF networks | [Link 1][20] |
 | Comparison of RBF network <br/>with multilayer perceptron | [Link 1][20] |
@@ -102,14 +102,14 @@ puppeteer:
 
 >### Unit 4 - **RNN & Temporal Feedforward Network**
 | Topic Name | Links |
-| --- | --- | --- |
+| --- | --- |
 | Independent component <br/>analysis | [Link 1][25]<br/>[Link 2][26] |
 | Associative memory | [Link 1][27] |
 | Hopfield network | [Link 1][28]<br/>[Link 2][29] |
 
 >### Unit 5 - **Complex valued NN & Complex valued BP**
 | Topic Name | Links |
-| --- | --- | --- |
+| --- | --- |
 | Soft computing | [Link 1][30] |
 | Fuzzy logic | [Link 1][31] |
 | Genetic algorithm | [Link 1][32]<br/>[Link 2][33] |
